@@ -1,8 +1,8 @@
 class Macnotifier < Formula
   desc "macOS notification CLI with click actions"
   homepage "https://github.com/send/macnotifier"
-  url "https://github.com/send/macnotifier/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "5f598f293f512d15c985782efae22064e796171648220fb349e5b606149eb377"
+  url "https://github.com/send/macnotifier/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "69ab1fff22b476b6982adf2bc5ea9c0665f00fd09f8b0c166dac7d7e793c870e"
   license "MIT"
 
   depends_on :macos
